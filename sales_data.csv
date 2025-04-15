@@ -1,0 +1,10 @@
+Date,Brand,Region,Sales_Amount,Units_Sold,COVID_Period
+2018-01-01,LV,North America,1200.34,5,Before COVID
+2018-01-01,Gucci,North America,1000.23,4,Before COVID
+2018-01-01,Dior,North America,950.56,3,Before COVID
+2018-01-01,Prada,North America,1100.12,6,Before COVID
+2018-01-01,Fendi,North America,980.23,5,Before COVID
+2018-02-01,LV,North America,1300.45,6,Before COVID
+2018-02-01,Gucci,North America,1100.98,5,Before COVID
+2018-02-01,Dior,North America,1050.11,4,Before COVID
+...
